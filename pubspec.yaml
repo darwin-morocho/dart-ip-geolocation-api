@@ -1,8 +1,9 @@
 name: ip_geolocation_api
-description: A new Flutter package project.
+description: A dart package to flutter or dart projects to get your geolocation data from your IP
 version: 0.0.1
 author: Darwin Morocho
-homepage: https://dina.ec
+homepage: https://github.com/darwin-morocho/dart-ip-geolocation-api
+
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
